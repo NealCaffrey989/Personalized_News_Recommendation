@@ -1,0 +1,10 @@
+E:\OpenSources\qqwry\QQWry.NET\QQWry.NET\bin\Release\QQWry.NET.dll
+E:\OpenSources\qqwry\QQWry.NET\QQWry.NET\bin\Release\QQWry.NET.pdb
+E:\OpenSources\qqwry\QQWry.NET\QQWry.NET\obj\Release\ResolveAssemblyReference.cache
+E:\OpenSources\qqwry\QQWry.NET\QQWry.NET\obj\Release\QQWry.NET.dll
+E:\OpenSources\qqwry\QQWry.NET\QQWry.NET\obj\Release\QQWry.NET.pdb
+D:\Program\GitHub\QQWry.NET\QQWry.NET\bin\Release\QQWry.NET.dll
+D:\Program\GitHub\QQWry.NET\QQWry.NET\bin\Release\QQWry.NET.pdb
+D:\Program\GitHub\QQWry.NET\QQWry.NET\obj\Release\QQWry.NET.csprojResolveAssemblyReference.cache
+D:\Program\GitHub\QQWry.NET\QQWry.NET\obj\Release\QQWry.NET.dll
+D:\Program\GitHub\QQWry.NET\QQWry.NET\obj\Release\QQWry.NET.pdb

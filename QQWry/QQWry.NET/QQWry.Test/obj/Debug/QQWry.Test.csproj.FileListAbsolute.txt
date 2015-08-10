@@ -1,0 +1,17 @@
+E:\OpenSources\qqwry\QQWry.NET\QQWry.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\OpenSources\qqwry\QQWry.NET\QQWry.Test\bin\Debug\QQWry.Test.exe
+E:\OpenSources\qqwry\QQWry.NET\QQWry.Test\bin\Debug\QQWry.Test.pdb
+E:\OpenSources\qqwry\QQWry.NET\QQWry.Test\bin\Debug\IPLocation.dll
+E:\OpenSources\qqwry\QQWry.NET\QQWry.Test\bin\Debug\QQWry.NET.dll
+E:\OpenSources\qqwry\QQWry.NET\QQWry.Test\bin\Debug\QQWry.NET.pdb
+E:\OpenSources\qqwry\QQWry.NET\QQWry.Test\obj\Debug\QQWry.Test.exe
+E:\OpenSources\qqwry\QQWry.NET\QQWry.Test\obj\Debug\QQWry.Test.pdb
+D:\Program\GitHub\QQWry.NET\QQWry.Test\bin\Debug\QQWry.Test.exe.config
+D:\Program\GitHub\QQWry.NET\QQWry.Test\obj\Debug\QQWry.Test.exe
+D:\Program\GitHub\QQWry.NET\QQWry.Test\obj\Debug\QQWry.Test.pdb
+D:\Program\GitHub\QQWry.NET\QQWry.Test\bin\Debug\QQWry.Test.exe
+D:\Program\GitHub\QQWry.NET\QQWry.Test\bin\Debug\QQWry.Test.pdb
+D:\Program\GitHub\QQWry.NET\QQWry.Test\bin\Debug\IPLocation.dll
+D:\Program\GitHub\QQWry.NET\QQWry.Test\bin\Debug\QQWry.NET.dll
+D:\Program\GitHub\QQWry.NET\QQWry.Test\bin\Debug\QQWry.NET.pdb
+D:\Program\GitHub\QQWry.NET\QQWry.Test\obj\Debug\QQWry.Test.csprojResolveAssemblyReference.cache

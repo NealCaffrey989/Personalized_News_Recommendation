@@ -1,0 +1,5 @@
+E:\OpenSources\qqwry\QQWry.NET\QQWry.NET\obj\Debug\ResolveAssemblyReference.cache
+E:\OpenSources\qqwry\QQWry.NET\QQWry.NET\bin\Debug\QQWry.NET.dll
+E:\OpenSources\qqwry\QQWry.NET\QQWry.NET\bin\Debug\QQWry.NET.pdb
+E:\OpenSources\qqwry\QQWry.NET\QQWry.NET\obj\Debug\QQWry.NET.dll
+E:\OpenSources\qqwry\QQWry.NET\QQWry.NET\obj\Debug\QQWry.NET.pdb

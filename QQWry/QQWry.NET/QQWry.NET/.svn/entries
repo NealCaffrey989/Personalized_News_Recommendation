@@ -1,0 +1,56 @@
+8
+
+dir
+2
+https://qqwrynet.googlecode.com/svn/trunk/QQWry.NET
+https://qqwrynet.googlecode.com/svn
+
+
+
+2008-06-19T11:39:09.551866Z
+2
+hjf1223
+
+
+svn:special svn:externals svn:needs-lock
+
+QQWry.NET.csproj
+file
+4
+
+
+
+2008-06-19T12:06:32.000000Z
+1b5bbc492c3b882bbe7b60dc0892092a
+2008-06-19T12:07:04.821498Z
+4
+hjf1223
+
+QQWryLocator.cs
+file
+3
+
+
+
+2008-06-19T11:55:12.000000Z
+f3f82a4126a7176cf7d230233268f4af
+2008-06-19T11:58:54.538969Z
+3
+hjf1223
+
+Properties
+dir
+
+QQWry.NET.suo
+file
+
+
+
+
+2008-06-19T11:24:54.000000Z
+a1820789b939411bbb0efd8b86eb5dfa
+2008-06-19T11:39:09.551866Z
+2
+hjf1223
+has-props
+

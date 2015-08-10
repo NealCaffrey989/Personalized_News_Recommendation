@@ -1,0 +1,85 @@
+8
+
+dir
+1
+https://qqwrynet.googlecode.com/svn/trunk
+https://qqwrynet.googlecode.com/svn
+
+
+
+2008-06-19T11:31:09.066208Z
+1
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ff9b3f50-0350-0410-abb6-9d7242441e4d
+
+QQWry.Test
+dir
+
+QQWry.NET.sln
+file
+4
+
+
+
+2008-06-19T12:06:36.000000Z
+e2fb1ecbc4a252b0199b7f32f9877624
+2008-06-19T12:07:04.821498Z
+4
+hjf1223
+
+QQWry.NET
+dir
+
+QQWry.dat
+file
+2
+
+
+
+2008-06-15T09:45:46.000000Z
+414a96472bb586ab30b8b5dfdb04c42f
+2008-06-19T11:39:09.551866Z
+2
+hjf1223
+has-props
+
+IPLocation.dll
+file
+2
+
+
+
+2006-12-15T16:23:10.000000Z
+04df6d8ae01af49dd8e8809ad4c2863c
+2008-06-19T11:39:09.551866Z
+2
+hjf1223
+has-props
+
+QQWry.NET.suo
+file
+4
+
+
+
+2008-06-19T12:06:38.000000Z
+92a2b532ada923e76663fcc2c313868c
+2008-06-19T12:07:04.821498Z
+4
+hjf1223
+has-props
+

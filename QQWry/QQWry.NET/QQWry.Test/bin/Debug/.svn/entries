@@ -1,0 +1,29 @@
+8
+
+dir
+2
+https://qqwrynet.googlecode.com/svn/trunk/QQWry.Test/bin/Debug
+https://qqwrynet.googlecode.com/svn
+
+
+
+2008-06-19T11:39:09.551866Z
+2
+hjf1223
+
+
+svn:special svn:externals svn:needs-lock
+
+QQWry.dat
+file
+
+
+
+
+2008-06-15T09:45:46.000000Z
+414a96472bb586ab30b8b5dfdb04c42f
+2008-06-19T11:39:09.551866Z
+2
+hjf1223
+has-props
+

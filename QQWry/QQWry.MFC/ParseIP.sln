@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParseIP", "ParseIP\ParseIP.vcxproj", "{EFC1D695-E00F-4223-B008-8A599E0FE612}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QueryInfo", "QueryInfo\QueryInfo.vcxproj", "{1926616B-BACD-41F5-AF35-DDC1C2FB77A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC1D695-E00F-4223-B008-8A599E0FE612}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EFC1D695-E00F-4223-B008-8A599E0FE612}.Debug|Win32.Build.0 = Debug|Win32
+		{EFC1D695-E00F-4223-B008-8A599E0FE612}.Release|Win32.ActiveCfg = Release|Win32
+		{EFC1D695-E00F-4223-B008-8A599E0FE612}.Release|Win32.Build.0 = Release|Win32
+		{1926616B-BACD-41F5-AF35-DDC1C2FB77A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1926616B-BACD-41F5-AF35-DDC1C2FB77A5}.Debug|Win32.Build.0 = Debug|Win32
+		{1926616B-BACD-41F5-AF35-DDC1C2FB77A5}.Release|Win32.ActiveCfg = Release|Win32
+		{1926616B-BACD-41F5-AF35-DDC1C2FB77A5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

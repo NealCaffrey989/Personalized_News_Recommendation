@@ -1,0 +1,46 @@
+8
+
+dir
+2
+https://qqwrynet.googlecode.com/svn/trunk/QQWry.Test
+https://qqwrynet.googlecode.com/svn
+
+
+
+2008-06-19T11:39:09.551866Z
+2
+hjf1223
+
+
+svn:special svn:externals svn:needs-lock
+
+QQWry.Test.csproj
+file
+
+
+
+
+2008-06-19T11:34:34.000000Z
+6f9e87a15c3cc483f4db0aff8e7c28a3
+2008-06-19T11:39:09.551866Z
+2
+hjf1223
+
+bin
+dir
+
+Program.cs
+file
+3
+
+
+
+2008-06-19T11:57:46.000000Z
+dd8b1c2fc55fc60c7bed2a990282a6bd
+2008-06-19T11:58:54.538969Z
+3
+hjf1223
+
+Properties
+dir
+

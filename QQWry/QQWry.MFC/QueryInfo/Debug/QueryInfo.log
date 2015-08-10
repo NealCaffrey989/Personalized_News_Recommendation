@@ -1,0 +1,38 @@
+﻿Build started 2015/8/10 17:00:57.
+     1>Project "D:\Program\GitHub\QQWry\QueryInfo\QueryInfo.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\QueryInfo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>d:\program files\microsoft visual studio 12.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+                 d:\program files\microsoft visual studio 12.0\vc\atlmfc\include\afx.h(33) : see declaration of 'MBCS_Support_Deprecated_In_MFC'
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\QueryInfo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt QueryInfo.cpp QueryInfoDlg.cpp
+         QueryInfoDlg.cpp
+     1>d:\program\github\qqwry\queryinfo\queryinfodlg.h(11): warning C4091: '__declspec(dllimport)' : ignored on left of 'CParseIP' when no variable is declared
+     1>d:\program\github\qqwry\queryinfo\queryinfodlg.h(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\program\github\qqwry\queryinfo\queryinfodlg.h(28): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>d:\program\github\qqwry\queryinfo\queryinfodlg.h(32): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+         QueryInfo.cpp
+     1>d:\program\github\qqwry\queryinfo\queryinfodlg.h(11): warning C4091: '__declspec(dllimport)' : ignored on left of 'CParseIP' when no variable is declared
+     1>d:\program\github\qqwry\queryinfo\queryinfodlg.h(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\program\github\qqwry\queryinfo\queryinfodlg.h(28): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>d:\program\github\qqwry\queryinfo\queryinfodlg.h(32): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /l"0x0804" /IDebug\ /nologo /fo"Debug\QueryInfo.res" QueryInfo.rc 
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Program\GitHub\QQWry\Debug\QueryInfo.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Program\GitHub\QQWry\Debug\QueryInfo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Program\GitHub\QQWry\Debug\QueryInfo.lib" /MACHINE:X86 Debug\QueryInfo.res
+         Debug\QueryInfo.obj
+         Debug\QueryInfoDlg.obj
+         Debug\stdafx.obj
+         QueryInfo.vcxproj -> D:\Program\GitHub\QQWry\Debug\QueryInfo.exe
+     1>Done Building Project "D:\Program\GitHub\QQWry\QueryInfo\QueryInfo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:29.03
